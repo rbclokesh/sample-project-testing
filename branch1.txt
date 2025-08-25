@@ -1,3 +1,6 @@
 this file is branch1 filr
 this is second change in branch1 file
+<<<<<<< HEAD
 this data after merging am 
+=======
+>>>>>>> d0d6256 (second change in branch1)
