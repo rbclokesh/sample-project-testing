@@ -1,3 +1,4 @@
 hi this is first master file
 hi my second chane in this file
 hi after merge am entering some data
+after cherry-pick am trying to stash this commit
